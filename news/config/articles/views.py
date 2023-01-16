@@ -32,4 +32,5 @@ class ArticleCreateView(CreateView):  # new
     fields = ('title', 'body', 'author',)
 
 
+
 # Create your views here.
